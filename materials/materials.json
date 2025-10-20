@@ -136,6 +136,18 @@
                         "number": 7
                     },
                     "artifacts": {}
+                },
+                "lec08": {
+                    "metadata": {
+                        "reading": {
+                            "title": "Chapter 6 - Missing Data",
+                            "url": "https://notes.dsc80.com/content/06/introduction.html"
+                        },
+                        "date": "2025-10-21",
+                        "topic": "Missingness and Imputation",
+                        "number": 8
+                    },
+                    "artifacts": {}
                 }
             }
         },
