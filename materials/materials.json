@@ -148,6 +148,18 @@
                         "number": 8
                     },
                     "artifacts": {}
+                },
+                "lec09": {
+                    "metadata": {
+                        "reading": {
+                            "title": "Chapter 7 - Collecting Data",
+                            "url": "https://notes.dsc80.com/content/07/introduction.html"
+                        },
+                        "date": "2025-10-23",
+                        "topic": "APIs and Scraping",
+                        "number": 9
+                    },
+                    "artifacts": {}
                 }
             }
         },
