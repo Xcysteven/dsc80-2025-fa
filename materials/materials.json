@@ -160,6 +160,18 @@
                         "number": 9
                     },
                     "artifacts": {}
+                },
+                "lec10": {
+                    "metadata": {
+                        "reading": {
+                            "title": "Chapter 7 - Collecting Data",
+                            "url": "https://notes.dsc80.com/content/07/introduction.html"
+                        },
+                        "date": "2025-10-28",
+                        "topic": "HTML and Scraping",
+                        "number": 10
+                    },
+                    "artifacts": {}
                 }
             }
         },
@@ -457,6 +469,15 @@
                         "due": "2025-10-27 23:59:00",
                         "released": "2025-10-13 00:00:00",
                         "number": 4
+                    },
+                    "artifacts": {}
+                },
+                "lab05": {
+                    "metadata": {
+                        "topic": "Missing Values and Imputation",
+                        "due": "2025-11-03 23:59:00",
+                        "released": "2025-10-20 00:00:00",
+                        "number": 5
                     },
                     "artifacts": {}
                 }
