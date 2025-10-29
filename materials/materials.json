@@ -172,6 +172,18 @@
                         "number": 10
                     },
                     "artifacts": {}
+                },
+                "lec11": {
+                    "metadata": {
+                        "reading": {
+                            "title": "Chapter 8 - Information Extraction",
+                            "url": "https://notes.dsc80.com/content/08/introduction.html"
+                        },
+                        "date": "2025-10-30",
+                        "topic": "Regular Expressions",
+                        "number": 11
+                    },
+                    "artifacts": {}
                 }
             }
         },
