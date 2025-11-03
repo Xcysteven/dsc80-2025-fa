@@ -184,6 +184,18 @@
                         "number": 11
                     },
                     "artifacts": {}
+                },
+                "lec12": {
+                    "metadata": {
+                        "reading": {
+                            "title": "Chapter 9 - Introduction to Features",
+                            "url": "https://notes.dsc80.com/content/09/introduction.html"
+                        },
+                        "date": "2025-11-04",
+                        "topic": "Text Features",
+                        "number": 12
+                    },
+                    "artifacts": {}
                 }
             }
         },
@@ -238,6 +250,17 @@
                         "due": "2025-10-30 23:59:00",
                         "released": "2025-10-16 00:00:00",
                         "number": 2
+                    },
+                    "artifacts": {}
+                },
+                "proj03": {
+                    "metadata": {
+                        "checkpoint_due": null,
+                        "checkpoint_released": "2025-10-30 00:00:00",
+                        "topic": "Language Models",
+                        "due": "2025-11-13 23:59:00",
+                        "released": "2025-10-30 00:00:00",
+                        "number": 3
                     },
                     "artifacts": {}
                 }
