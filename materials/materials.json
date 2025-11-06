@@ -515,6 +515,15 @@
                         "number": 5
                     },
                     "artifacts": {}
+                },
+                "lab06": {
+                    "metadata": {
+                        "topic": "APIs and Web Scraping",
+                        "due": "2025-11-10 23:59:00",
+                        "released": "2025-10-27 00:00:00",
+                        "number": 6
+                    },
+                    "artifacts": {}
                 }
             }
         },
