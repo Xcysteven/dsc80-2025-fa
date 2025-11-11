@@ -524,6 +524,15 @@
                         "number": 6
                     },
                     "artifacts": {}
+                },
+                "lab07": {
+                    "metadata": {
+                        "topic": "RegEx and Text Features",
+                        "due": "2025-11-17 23:59:00",
+                        "released": "2025-11-10 00:00:00",
+                        "number": 7
+                    },
+                    "artifacts": {}
                 }
             }
         },
