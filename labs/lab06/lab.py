@@ -91,37 +91,19 @@ def get_product_info(text, categories):
     return info_dict
 
 def scrape_books(k, categories):
-    all_books_data = []
-    
-    book_base_url = "http://books.toscrape.com/catalogue/"
-    
-    for page_num in range(1, k + 1):
-        listing_url = f"http://books.toscrape.com/catalogue/page-{page_num}.html"
-        try:
-            response = requests.get(listing_url)
-            response.raise_for_status() 
-        except requests.exceptions.RequestException as e:
-            print(f"Stopping scrape at page {page_num}: Page not found or connection error.")
-            break  
-            
-        page_content = response.text
-        book_links = extract_book_links(page_content)
-        
-        for book_link in book_links:
-            book_url = book_base_url + book_link
-            try:
-                book_response = requests.get(book_url)
-                book_response.raise_for_status()
-            except requests.exceptions.RequestException:
-                continue  
-                
-            book_page_content = book_response.text
-            info = get_product_info(book_page_content, categories)
+    ...
 
-            if info is not None:
-                all_books_data.append(info)
-    df = pd.DataFrame(all_books_data)
-    return df
+
+# ---------------------------------------------------------------------
+# QUESTION 3
+# ---------------------------------------------------------------------
+
+
+def stock_history(ticker, year, month):
+    ...
+
+def stock_stats(history):
+    ...
 
 
 # ---------------------------------------------------------------------
